@@ -4,6 +4,6 @@
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/tdrhq/cl-unix-sockets.git |
-| commit  | a27f0b9                                          |
+| commit  | 9d1ca3f                                          |
 | systems | unix-sockets                                     |
 |---------+--------------------------------------------------|
